@@ -16,5 +16,5 @@ allprojects {
 Step 2. Add the dependency
 
 	dependencies {
-	        implementation 'com.github.Fahamin:RippleBackground:1.2'
+	        implementation 'com.github.Fahamin:RippleBackground:1.2.3'
 	}
